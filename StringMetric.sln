@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetric", "StringMetric\StringMetric.csproj", "{4CDA507F-C491-4E8A-9B24-1EEC601E0977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetric.Tests", "StringMetric.Tests\StringMetric.Tests.csproj", "{898DC965-F141-4E1E-AAF4-2B4C6FFF3823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CDA507F-C491-4E8A-9B24-1EEC601E0977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDA507F-C491-4E8A-9B24-1EEC601E0977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDA507F-C491-4E8A-9B24-1EEC601E0977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDA507F-C491-4E8A-9B24-1EEC601E0977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898DC965-F141-4E1E-AAF4-2B4C6FFF3823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898DC965-F141-4E1E-AAF4-2B4C6FFF3823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898DC965-F141-4E1E-AAF4-2B4C6FFF3823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898DC965-F141-4E1E-AAF4-2B4C6FFF3823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
